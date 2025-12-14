@@ -1,11 +1,6 @@
 Basic concepts and Terminologies
 
-10 June 2025
-
-11:37
-
  
-
 **(Natural Language Processing)**
 
 Natural Language Processing (NLP) is a field of **Artificial
@@ -162,11 +157,6 @@ NLP helps it understand and answer you.
  
 
 Different Languages and NLP
-
-10 June 2025
-
-11:45
-
  
 
 **📚 Different Languages and NLP**
@@ -321,11 +311,6 @@ complex.
 
 Importance and applications of NLP
 
-10 June 2025
-
-11:52
-
- 
 
 **📖 1️⃣️⃣ Why is NLP Important?**
 
@@ -462,11 +447,6 @@ industries:
 
 Fundamental challenges in NLP
 
-10 June 2025
-
-12:01
-
- 
 
 **📖 1️⃣️⃣ Why Are There Challenges in NLP?**
 
@@ -745,11 +725,6 @@ NLP learning journey.\
 
 Brief Integrated History of NLP
 
-10 June 2025
-
-12:11
-
- 
 
 **📖 1️⃣️⃣ What is NLP History About?**
 
